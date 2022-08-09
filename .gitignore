@@ -1,0 +1,11 @@
+tmp/
+*.DS_Store
+*.html_old
+img/*.png_backup
+img/*.DS_Store
+img/*.db
+
+
+
+
+
